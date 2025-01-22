@@ -1,0 +1,9 @@
+Django + next.js.Why>?
+Beacause django does backend very fast and reliable.
+Django Ninja makes api faster than many frameworks on the market.
+So I make a api that works flawlessly and fast and allow for me to create a seprate Frontend framework allowing for a faster development and potential better flexiblity.
+
+ToDo List:
+1.Install and set up Nextjs,create Project
+2.Code for navBar
+3.Categories On frontPage
